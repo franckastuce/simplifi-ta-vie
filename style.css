@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: bisque;
+    background-image: url(./images/fond.jpg);
 }
 
 nav {
@@ -12,7 +12,11 @@ nav {
 }
 
 main {
-    display: block;
+    text-align: center;
+}
+
+p {
+    margin: 10px;
 }
 
 .contenaire {
