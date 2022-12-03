@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: bisque;
+}
+
+nav {
+    display: inline;
+}
+
+main {
+    display: block;
+}
+
+.contenaire {
+    height: 100%;
+    width: 100%;
+}
+
+.fenetre {
+    height: 200px;
+    width: 200px;
+    border: 3px solid rgb(237, 96, 96);
+    border-radius: 7px;
+    margin: 3px;
+    text-align: center;
+}
