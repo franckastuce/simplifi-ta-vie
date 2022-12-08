@@ -4,4 +4,7 @@ eau elec banques assurances, et d'autres viendrons.
 
 v1031222
 préparation au debut sur les images comme alt au cas ou l'img plante
-v1.1031222
+v1.103122
+mise a jour index style assurances et banques et ajout des images pour chaques lien.
+liens a faire pour chaque images et style a modifier.
+v1.081222
