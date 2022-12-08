@@ -22,7 +22,11 @@ p {
 .contenaire {
     height: 100%;
     width: 100%;
-    display: inline-block;
+}
+
+.fenetres {
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .fenetre {
