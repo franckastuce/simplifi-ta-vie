@@ -22,6 +22,7 @@ p {
 .contenaire {
     height: 100%;
     width: 100%;
+    display: inline-block;
 }
 
 .fenetre {
@@ -37,4 +38,12 @@ p {
     height: 100%;
     width: 100%;
     border-radius: 7px;
+}
+
+footer {
+    /*modifier pour meilleur lecteur*/
+    height: 300px;
+    width: 100%;
+    color: aliceblue;
+    text-align: center;
 }
