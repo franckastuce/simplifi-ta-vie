@@ -8,3 +8,5 @@ v1.103122
 mise a jour index style assurances et banques et ajout des images pour chaques lien.
 liens a faire pour chaque images et style a modifier.
 v1.081222
+mise a jour des liens assurances et banques ainsi que alt sur banques
+v1.091222
