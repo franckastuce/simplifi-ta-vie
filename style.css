@@ -9,6 +9,7 @@ body {
 
 nav {
     display: inline;
+    margin: 10px;
 }
 
 main {
@@ -32,7 +33,7 @@ p {
 .fenetre {
     height: 200px;
     width: 200px;
-    border: 3px solid rgb(237, 96, 96);
+    border: 3px solid rgba(237, 96, 96, 0.448);
     border-radius: 7px;
     margin: 3px;
     text-align: center;
