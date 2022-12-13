@@ -10,3 +10,6 @@ liens a faire pour chaque images et style a modifier.
 v1.081222
 mise a jour des liens assurances et banques ainsi que alt sur banques
 v1.091222
+maj index avec rajout de gaz et tout ce qui va avec.
+étude du dernier carrer pour mise en place d"un todoliste de course, avec lien pour appli téléphone.
+v1.131222
